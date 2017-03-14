@@ -1,0 +1,21 @@
+<div id="AdminMenu"><ul>
+        <li class="caption">个人信息管理
+            <ol>
+                <li><a href="admin/inbox">站内留言(0/1)</a></li>
+                <li><a href="admin/profile">编辑个人资料</a></li>
+                <li><a href="admin/change_pwd">修改登录密码</a></li>
+                <li><a href="admin/userSettings">网页个性设置</a></li>
+            </ol>
+        </li>
+    </ul>
+    <ul>
+        <li class="caption">博客管理
+            <ol>
+                <li><a href="admin/new_blog">发表博客</a></li>
+                <li><a href="admin/edit">博客设置/分类管理</a></li>
+                <li><a href="admin/blogs">文章管理</a></li>
+                <li><a href="admin/blog_comments">博客评论管理</a></li>
+            </ol>
+        </li>
+    </ul>
+</div>
